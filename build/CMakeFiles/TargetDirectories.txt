@@ -1,3 +1,0 @@
-/C/git/LEARNING/OTUS_CPP/otus_cpp_basics/lesson2_hello_world/build/CMakeFiles/hello_world.dir
-/C/git/LEARNING/OTUS_CPP/otus_cpp_basics/lesson2_hello_world/build/CMakeFiles/edit_cache.dir
-/C/git/LEARNING/OTUS_CPP/otus_cpp_basics/lesson2_hello_world/build/CMakeFiles/rebuild_cache.dir
